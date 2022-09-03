@@ -2,8 +2,7 @@ package com.mycom.word;
 
 public interface ICRUD {
     public Object add();
-    public int add(Object obj);
     public int update(Object obj);
-    public int delet(Object obj);
-    public void select(int id);
+    public int delete(Object obj);
+    public void selectOne(int id);
 }

@@ -1,19 +1,22 @@
+package com.mycom.word;
+
 public class Word {
     private int id;
     private int level;
     private String word;
     private String meaning;
 
-    public String toString();
-
+    Word(){}
     Word(int id, int level, String word, String meaning){
         this.id = id;
         this.level = level;
-        this word = word;
-        this meaning = meaning;
+        this.word = word;
+        this.meaning = meaning;
     }
 
-    public int getId() {}
+    public int getId() {
+        return id;
+    }
 
     public void setId(int id) {
         this.id = id;
