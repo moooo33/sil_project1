@@ -17,11 +17,11 @@ Class, Override, Interface, Array List, Scanner / Git/Github, Markdown 등을 �
 ## Classes
 `Main Class` static main 함수. WordMan 인스턴스 생성 후 start
 
-`Word Class` 데이터 클래스. id, level, word, meaning 
+`Word Class` 데이터 클래스. id, level, word, meaning 4개의 필드, getter/setter, toString 포함.
 
-`WordMan Class` WordCRUD를 사용한 실제 관리. 
+`WordMan Class` WordCRUD를 사용한 실제 관리. selectMenu, wordCRUD 인스턴스 생성 후 메소드 사용.
 
-`WordCRUD Class` ICRUD interface 구현체. 
+`WordCRUD Class` ICRUD interface 구현체. ArrayList 생성, add, addWord, listAll 포함.
 
 `ICRUD Interface` CRUD를 위한 interface.
 
