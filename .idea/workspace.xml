@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2048fa5-d04d-418a-b1db-e4ad117e4fe6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mycom/word/ICRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a2048fa5-d04d-418a-b1db-e4ad117e4fe6" name="Changes" comment="add complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycom/word/ICRDU.inteface" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycom/word/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/WordCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mycom/word/WordMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/WordMan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662081212211</updated>
     </task>
+    <task id="LOCAL-00001" summary="add complete">
+      <created>1662179990805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662179990805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +103,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="add complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

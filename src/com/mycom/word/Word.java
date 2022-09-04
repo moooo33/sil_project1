@@ -3,10 +3,21 @@ package com.mycom.word;
 public class Word {
     private int id;
     private int level;
+    //private String slevel;
     private String word;
     private String meaning;
 
     Word(){}
+
+    @Override
+    public String toString() {
+        String slevel = "";
+        for (int i = 0; i < level; i++) slevel = slevel + "*";
+        String  str = String.format("%-5s", slevel)
+                    + String.format("%-5s", word) + "  " + meaning ;
+        return str;
+    }
+
     Word(int id, int level, String word, String meaning){
         this.id = id;
         this.level = level;
