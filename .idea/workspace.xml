@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2048fa5-d04d-418a-b1db-e4ad117e4fe6" name="Changes" comment="read complete">
+    <list default="true" id="a2048fa5-d04d-418a-b1db-e4ad117e4fe6" name="Changes" comment="etc">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mycom/word/WordMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mycom/word/WordMan.java" afterDir="false" />
     </list>
@@ -50,6 +51,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/target" />
       <recent name="$PROJECT_DIR$/src/com/mycom/word" />
       <recent name="$PROJECT_DIR$/" />
     </key>
@@ -97,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662297071676</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="etc">
+      <created>1662303129134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662303129134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add complete" />
     <MESSAGE value="read complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="read complete" />
+    <MESSAGE value="etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="etc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
