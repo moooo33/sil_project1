@@ -25,6 +25,19 @@ Class, Override, Interface, Array List, Scanner / Git/Github, Markdown 등을 �
 
 `ICRUD Interface` CRUD를 위한 interface.
 
+> Scanner
+> 
+> ArrayList
+>
+> String
+>
+> BufferReader
+>
+> PrintWriter
+> 
+> Exception
+
+
 ## Results
 #### [1. 모든 단어보기] 메뉴 실행화면
 <img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png?raw=true" height="350">
@@ -46,3 +59,9 @@ Class, Override, Interface, Array List, Scanner / Git/Github, Markdown 등을 �
 
 #### [0. 나가기] 메뉴 실행화면
 <img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/0.%20%EB%82%98%EA%B0%80%EA%B8%B0.png?raw=true" height="350">
+
+### 데이터 파일 전 
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84.png?raw=true">
+
+### 데이터 파일 후
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%9B%84.png?raw=true">
