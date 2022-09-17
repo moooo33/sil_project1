@@ -9,21 +9,38 @@ public class WordMan {
     }
 
     public void start() {
+        wordCRUD.loadFile();
         while(true) {
+            System.out.println("*** 영단어 마스터 ***");
             int menu = selectMenu();
+            //wordCRDU.loadFile();
             if (menu == 1) wordCRUD.listAll();
-            else if (menu == 4) {
+            else if (menu == 2) { // 수준별 단어 검색
+                wordCRUD.searchLevel();
+            }
+            else if (menu == 3) { // 단어 검색
+                wordCRUD.searchItem();
+            }
+            else if (menu == 4) { // 단어 추가
                 wordCRUD.addWord();
             }
-            else if (menu == 0) {
+            else if (menu == 5) { // 단어 수정
+                wordCRUD.updateItem();
+            }
+            else if (menu == 6) { // 단어 삭제
+                wordCRUD.deleteItem();
+            }
+            else if (menu == 7) { // 파일 저장
+                wordCRUD.saveFile();
+            }
+            else if (menu == 0) { // 나가기
                 System.out.println("프로그램 종료! 다음에 만나요~");
                 break;
             }
         }
     }
     public int selectMenu() {
-        System.out.print("*** 영단어 마스터 *** \n"
-                + "*****************\n"
+        System.out.print("***************** \n"
                 + "1. 모든 단어 보기\n"
                 + "2. 수준별 단어 보기\n"
                 + "3. 단어 검색\n"
