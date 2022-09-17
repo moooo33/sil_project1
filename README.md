@@ -26,11 +26,23 @@ Class, Override, Interface, Array List, Scanner / Git/Github, Markdown 등을 �
 `ICRUD Interface` CRUD를 위한 interface.
 
 ## Results
+#### [1. 모든 단어보기] 메뉴 실행화면
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png?raw=true" height="350">
+
+#### [2. 수준별 단어보기] 메뉴 실행화면
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/2.%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0.png?raw=true" height="350">
+
+#### [3. 단어 검색] 메뉴 실행화면
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/3.%20%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89.png?raw=true">
+
 #### [4. 단어 추가] 메뉴 실행화면
 <img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/4.%20%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80.png?raw=true" height="350">
 
-#### [1. 모든 단어보기] 메뉴 실행화면
-<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%20%EB%B3%B4%EA%B8%B0.png?raw=true" height="350">
+#### [5. 단어 수정] 메뉴 실행화면
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/5.%20%EB%8B%A8%EC%96%B4%20%EC%88%98%EC%A0%95.png?raw=true">
+
+#### [6. 단어 삭제] 메뉴 실행화면
+<img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/6.%20%EB%8B%A8%EC%96%B4%20%EC%82%AD%EC%A0%9C.png?raw=true">
 
 #### [0. 나가기] 메뉴 실행화면
 <img src="https://github.com/moooo33/sil_project1/blob/master/screenshot/0.%20%EB%82%98%EA%B0%80%EA%B8%B0.png?raw=true" height="350">
